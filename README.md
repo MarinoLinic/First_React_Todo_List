@@ -1,5 +1,5 @@
 # How to start the application
-To run this app, open a terminal in the main folder and type the following two commands:
+To run this app, open a terminal in the main folder and type the following three commands:
 
 **Warning:** This command shouldn't be necessary but I had a building error without it.
 ```
