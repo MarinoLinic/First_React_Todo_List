@@ -11,7 +11,7 @@ Build it,
 $ npm run build
 ```
 
-and then deploy it:
+and then run it locally:
 ```
 $ npm run start
 ```
