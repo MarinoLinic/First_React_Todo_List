@@ -1,17 +1,12 @@
 # How to start the application
 To run this app, open a terminal in the main folder and type the following three commands:
 
-**Warning:** This command shouldn't be necessary but I had a building error without it.
+Install dependencies,
 ```
-$ npm install react-scripts --save
-```
-
-Build it,
-```
-$ npm run build
+$ npm i
 ```
 
-and then run it locally:
+and then run the program locally:
 ```
 $ npm run start
 ```
