@@ -1,15 +1,8 @@
-# How to start the application
-To run this app, open a terminal in the main folder and type the following three commands:
+# React + Vite
 
-Install dependencies,
-```
-$ npm i
-```
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-and then run the program locally:
-```
-$ npm run start
-```
+Currently, two official plugins are available:
 
-## Personal notes
-Some of the concepts I need to grasp much better are the hooks I used (useEffect, useRef, and useState) as well as using local storage. Plus my mental map of the code is still slightly hazy.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
